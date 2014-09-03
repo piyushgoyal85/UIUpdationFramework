@@ -1,0 +1,178 @@
+{
+    "elem": "product-main",
+    "product": {
+        "niceName": "Jet Set Blue Linen Shirt",
+        "longDescription": "Escape the daily grind in our Jet Set Blue Linen Shirt. Details include a contrast English spread collar, and a placket and cuffs with paisley print banding. Ideal for making a statement and an entrance. Sure to get you noticed by all the right people, we recommend pairing this with chinos \/ denims and well-worn loafers.",
+        "primaryImage": "http:\/\/img2.creyate.org\/cms-swatches\/products\/Mens-Casual-Shirt\/MSH243-4\/Medium\/front\/front_MSH243-4_1.png",
+        "price": "4599",
+        "allowed_images": "{\"side\":{\"1\":\"A\"},\"threefourth\":{\"1\":\"A\"},\"back\":{\"1\":\"A\"},\"front\":{\"1\":\"A\"}}",
+        "available_images": "{\"side\":{\"max_v\":1,\"fn\":\"MSH243-4\",\"ext\":\"png\"},\"threefourth\":{\"max_v\":1,\"fn\":\"MSH243-4\",\"ext\":\"png\"},\"back\":{\"max_v\":1,\"fn\":\"MSH243-4\",\"ext\":\"png\"},\"front\":{\"max_v\":1,\"fn\":\"MSH243-4\",\"ext\":\"png\"}}",
+        "recommendedProductImages": [
+
+        ],
+        "category": "Mens-Casual-Shirt",
+        "hero_product": "1",
+        "id": "MSH243-4",
+        "customizeUrl": "",
+        "fabricNiceName": "Jet Set Blue Linen",
+        "fabricPrice": "4599",
+        "customisedJson": "{\"structure\":{\"_sleeve\":\"SLE001\",\"_fit\":\"Tailored\",\"_cuff\":\"CUF001\",\"_back_option\":\"BAC002\",\"_collar\":\"COL001\",\"_body\":\"BOD001\",\"_hem\":\"HEM002\",\"_pocket\":\"POC008\",\"_placket\":\"PLA004\",\"_sleeve_placket\":\"SLP001\",\"_backYoke\":\"BYK001\",\"_lifestyle\":\"Casual\"},\"accents\":[{\"id\":\"_CF1\",\"values\":\"240\",\"placements\":[{\"name\":\"top_button_placket\",\"nice_name\":\"\"},{\"name\":\"top_collar\",\"nice_name\":\"\"},{\"name\":\"outer_collar_band\",\"nice_name\":\"\"},{\"name\":\"cuff_piping\",\"nice_name\":\"\"}],\"type\":\"fabric\"},{\"id\":\"_CF2\",\"values\":\"242\",\"placements\":[{\"name\":\"bottom_collar\",\"nice_name\":\"\"},{\"name\":\"inner_collar_band\",\"nice_name\":\"\"},{\"name\":\"bottom_cuff\",\"nice_name\":\"\"},{\"name\":\"sleeve_placket_bottom\",\"nice_name\":\"\"}],\"type\":\"fabric\"},{\"id\":\"_B01\",\"nice_name\":\"Canary Blue Pearl\",\"value\":\"BTN1\",\"type\":\"button\"},{\"id\":\"_CB01\",\"nice_name\":\"Canary Blue Pearl\",\"value\":\"BTN1\",\"type\":\"cuff_button\"},{\"id\":\"_T01\",\"placements\":[],\"value\":\"\",\"type\":\"tape\"}],\"fabric\":{\"_MF\":\"243\"}}",
+        "styleId": "HERO",
+        "garmentType": "Shirt",
+        "signature": [
+            {
+                "type": "embroidery",
+                "optional": "yes",
+                "id": "_EM1",
+                "values": "em15"
+            },
+            {
+                "type": "embroidery",
+                "optional": "yes",
+                "id": "_EM2",
+                "values": "em16"
+            }
+        ],
+        "signaturePlacements": [
+            {
+                "component": "placket",
+                "sub_component": "top_button_placket",
+                "nice_name": "placket",
+                "inset_view": "",
+                "_em1": "no",
+                "_em2": "yes"
+            },
+            {
+                "component": "body",
+                "sub_component": "body",
+                "nice_name": "below_pocket",
+                "inset_view": "",
+                "_em1": "yes",
+                "_em2": "no"
+            },
+            {
+                "component": "pocket",
+                "sub_component": "pocket",
+                "nice_name": "pocket",
+                "inset_view": "",
+                "_em1": "yes",
+                "_em2": "no"
+            },
+            {
+                "component": "pocket",
+                "sub_component": "chest",
+                "nice_name": "chest",
+                "inset_view": "",
+                "_em1": "yes",
+                "_em2": "no"
+            },
+            {
+                "component": "cuff",
+                "sub_component": "top_cuff",
+                "nice_name": "cuff",
+                "inset_view": "",
+                "_em1": "yes",
+                "_em2": "no"
+            },
+            {
+                "component": "sleeve_placket",
+                "sub_component": "sleeve_placket_top",
+                "nice_name": "sleeve_placket",
+                "inset_view": "",
+                "_em1": "yes",
+                "_em2": "no"
+            },
+            {
+                "component": "collar",
+                "sub_component": "inner_collar_band",
+                "nice_name": "collar_band",
+                "inset_view": "",
+                "_em1": "no",
+                "_em2": "yes"
+            }
+        ],
+        "fit": [
+            {
+                "id": "Slim",
+                "nice_name": "Slim"
+            },
+            {
+                "id": "Tailored",
+                "nice_name": "Tailored"
+            },
+            {
+                "id": "Regular",
+                "nice_name": "Regular"
+            }
+        ],
+        "signatureColor": [
+            {
+                "thread_id": "th_001",
+                "color": "#000000",
+                "nice_name": "Black"
+            },
+            {
+                "thread_id": "th_002",
+                "color": "#ffffff",
+                "nice_name": "White"
+            },
+            {
+                "thread_id": "th_003",
+                "color": "navy",
+                "nice_name": "Navy"
+            },
+            {
+                "thread_id": "th_004",
+                "color": "red",
+                "nice_name": "Red"
+            },
+            {
+                "thread_id": "th_005",
+                "color": "#800080",
+                "nice_name": "Purple"
+            },
+            {
+                "thread_id": "th_006",
+                "color": "blue",
+                "nice_name": "Blue"
+            },
+            {
+                "thread_id": "th_007",
+                "color": "yellow",
+                "nice_name": "Yellow"
+            },
+            {
+                "thread_id": "th_008",
+                "color": "grey",
+                "nice_name": "Grey"
+            },
+            {
+                "thread_id": "th_0079",
+                "color": "#C9B138",
+                "nice_name": "Copper"
+            }
+        ],
+        "signatureFont": [
+            {
+                "id": "f1",
+                "nice_name": "bodoni-01"
+            },
+            {
+                "id": "f1",
+                "nice_name": "caviar-01"
+            },
+            {
+                "id": "f1",
+                "nice_name": "CYLBURN-01"
+            },
+            {
+                "id": "f1",
+                "nice_name": "script-01"
+            }
+        ],
+        "fabricId": "243",
+        "order_info": "{\"name\":\"Jet Set Blue Linen Shirt\",\"price\":\"4599\",\"thumbnail_img\":\"http:\\\/\\\/img2.creyate.org\\\/cms-swatches\\\/products\\\/Mens-Casual-Shirt\\\/MSH243-4\\\/Medium\\\/front\\\/front_MSH243-4_1.png\"}"
+    },
+    "template": "product.tpl",
+    "is_agent": 0
+}
